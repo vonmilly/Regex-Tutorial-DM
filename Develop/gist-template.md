@@ -74,6 +74,6 @@ The regex pattern described in this tutorial is designed to match URLs. It inclu
 ## Author
 - Devonte Miller | [GitHub](https://github.com/vonmilly)
 
-- [Gist](https://)
+- [Gist](https://gist.github.com/vonmilly/4d4b4e0645ca439b0e772fa01cbc9bd8)
 
 
